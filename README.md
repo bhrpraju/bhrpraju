@@ -1,6 +1,6 @@
 # Rajendra Prasad Raju BH
 
-> AVP Technology Program Management · AI Automation Builder · Indian Stock Market Analyst · Cricket Coach
+> AVP Technology Program Management · AI Automation Builder · Indian Stock Market Analyst · Strength & Conditioning Coach
 
 31+ years in IT. Currently building AI-powered tools at the intersection of automation, finance, and design.
 
