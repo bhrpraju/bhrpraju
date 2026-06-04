@@ -30,7 +30,7 @@
 |---|---|---|
 | **Zavu** | WhatsApp autoresponder — incoming message classification, Redis debounce, LLM-generated human-like replies, academy inbox logging. Built on n8n + OpenRouter Llama 3.3 70B | 🔨 In progress |
 
-### 🏋️ Health & Habits
+### 🏥 Health & Habits
 | Project | What it does | Status |
 |---|---|---|
 | **Sankalp** | AI-powered habit tracker — intent detection via OpenRouter Llama 3.3 70B, WhatsApp delivery | 🗓️ Planned |
@@ -82,7 +82,21 @@ Self-managed dedicated server running the full AI automation stack:
 
 ## 🛠️ Tech Stack
 
-`n8n` · `Python` · `PostgreSQL` · `Qdrant` · `Redis` · `Supabase` · `Claude API` · `GPT-4o` · `ElevenLabs` · `WhatsApp API` · `Ollama` · `FastAPI` · `React` · `Tailwind` · `Lovable`
+`n8n` · `Python` · `PostgreSQL` · `Qdrant` · `Redis` · `Supabase` · `Claude API` · `GPT-4o` · `ElevenLabs` · `WhatsApp API` · `Ollama` · `FastAPI` · `React` · `Tailwind` · `Lovable` · `Codex`
+
+---
+
+## 🎓 AI Training & Certifications
+
+| Course | Provider | Type |
+|---|---|---|
+| Gen AI Engineering Mastermind | Outskill | ✅ Completed |
+| Generative AI Mastermind | Outskill | ✅ Completed |
+| Claude Code | Anthropic / Outskill | ✅ Completed + Hands-on |
+| Crew.ai | Crew.ai | ✅ Completed + Hands-on |
+| OpenClaw | OpenClaw | ✅ Completed + Hands-on |
+
+*Professional Certifications: PMP · CISA · ITIL · ISO27001 LA · ITSM LA · QMS LA · BCCP · MBA · MS*
 
 ---
 
@@ -90,7 +104,3 @@ Self-managed dedicated server running the full AI automation stack:
 
 - LinkedIn: [rajendrabhupathi](https://www.linkedin.com/in/rajendrabhupathi/)
 - GitHub: [bhrpraju](https://github.com/bhrpraju)
-
----
-
-*Certifications: PMP · CISA · ITIL · ISO27001 LA · ITSM LA · QMS LA · BCCP · MBA · MS*
