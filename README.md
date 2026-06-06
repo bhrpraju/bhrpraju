@@ -56,6 +56,7 @@ Production-grade skills built and published for the Claude AI ecosystem:
 | [ux-cognitive-architect](https://github.com/bhrpraju/claude-skills/tree/main/ux-cognitive-architect) | Cognitive psychology + behavioral economics applied to UI design | ✅ v1.0 |
 | [mastering-markets-analyst](https://github.com/bhrpraju/claude-skills/tree/main/mastering-markets-analyst) | Indian stock analysis — BUY/SELL/HOLD signals, DuPont, valuation models | ✅ v1.1 |
 | [master-prompter](https://github.com/bhrpraju/claude-skills/tree/main/master-prompter) | Universal prompt engineering across Claude, GPT, Gemini, Grok | ✅ v1.0 |
+| [meeting-documenter](https://github.com/bhrpraju/claude-skills/tree/main/meeting-documenter) | Meeting audit trail — RASI matrix, decision logs, risk register, 3x30 executive reports | ✅ v1.0 |
 
 → Install all skills in Claude Desktop: `https://github.com/bhrpraju/claude-skills`
 
