@@ -11,8 +11,9 @@
 ### 📈 Stock Market & Finance
 | Project | What it does | Status |
 |---|---|---|
-| **Artha** | Automated Indian equity research pipeline — Gmail trigger → screener.in fundamentals → yfinance technicals → LLM scoring → Bull/Bear agent debate → WhatsApp delivery | 2 phases remaining |
-| **Dhruv** | 65-stock n8n/PostgreSQL Sunday screener with lookup table and weekly signals | ✅ Live |
+| Artha | Automated Indian equity research pipeline — Gmail trigger → screener.in fundamentals → yfinance technicals → LLM scoring → Bull/Bear agent debate → WhatsApp delivery | 2 phases remaining |
+| Dhruv | 65-stock n8n/PostgreSQL Sunday screener with lookup table and weekly signals | ✅ Live |
+| Clarity | Single-file, offline personal finance tool — debt payoff simulator, protection gap analysis, tax planning, stress testing, and a plain-English action plan, entirely client-side with zero data collection | ✅ Live |
 
 ### 📚 Learning & Knowledge
 | Project | What it does | Status |
