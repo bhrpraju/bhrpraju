@@ -29,7 +29,7 @@
 ### 💬 WhatsApp & Messaging
 | Project | What it does | Status |
 |---|---|---|
-| **Zavu** | WhatsApp autoresponder — incoming message classification, Redis debounce, LLM-generated human-like replies, academy inbox logging. Built on n8n + OpenRouter Llama 3.3 70B | 🔨 In progress |
+| **Zavu** | WhatsApp autoresponder — incoming message classification, Redis debounce, LLM-generated human-like replies, academy inbox logging. Built on n8n + OpenRouter Llama 3.3 70B | ✅ Live |
 
 ### 🏥 Health & Habits
 | Project | What it does | Status |
