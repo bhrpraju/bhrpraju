@@ -1,8 +1,24 @@
-# Rajendra Prasad Raju BH
+# Rajendra Prasad Raju Bhupathi
+> AI will not fix broken IT operations | Better system design will | I build scalable systems  
+> AVP – Technology Programme Management Operations · AI Automation Builder · Indian Stock Market Analyst · Strength & Conditioning Coach  
+31+ years in IT. Currently building AI-powered tools at the intersection of automation, finance, cricket intelligence, and women’s health.
 
-> AVP Technology Program Management · AI Automation Builder · Indian Stock Market Analyst · Strength & Conditioning Coach
+---
 
-31+ years in IT. Currently building AI-powered tools at the intersection of automation, finance, cricket intelligence, and women's health.
+## Professional Background
+I started in 1994 with a soldering iron and a Sun workstation. Today I serve as AVP – TPMO at Sutherland Global Services, contributing to technology programmes across APJ, EMEA and the United States.  
+
+Previously: 7 years as AVP at Apollo Health Street and 2+ years as Geo-level Programme Manager at Dell India. A significant part of my career has been in healthcare — HIPAA, PHI governance, and cross-geography compliance environments.  
+
+I bring programme governance, enterprise IT infrastructure, information security (ISO 27001, HIPAA, PCI-DSS), and service delivery discipline to everything I build.
+
+---
+
+## 🏆 Achievements
+| Achievement | Details | Status |
+|---|---|---|
+| **3rd Place – AI Generalist Hackathon** | Be10x AI Generalist Capstone Hackathon (B21) — Project: **Genesis–Aftermeet** | ✅ Aug 2026 |
+| Capstone Phase Certificate | House of Edtech / Be10x | ✅ Issued Aug 2026 |
 
 ---
 
@@ -44,6 +60,7 @@
 | [nuancepad](https://github.com/bhrpraju/nuancepad) | Corporate-safe meeting intelligence — transcripts to structured MOM | ✅ Live |
 | [model-council](https://github.com/bhrpraju/model-council) | One prompt. Four frontier models. A structured debate. One synthesized verdict. | ✅ Live |
 | [ghost-pepper](https://github.com/bhrpraju/ghost-pepper) | Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit | ✅ Live |
+| **Genesis–Aftermeet** | Project Intelligence Platform. Two connected AI workflows: **Genesis** creates project structure + RAID register from assignment emails; **Aftermeet** extracts risks/actions/issues/decisions from meeting notes and intelligently matches them against existing records (new vs update). Human-in-the-loop approval gate. Built with Lovable + n8n + Claude API. | ✅ Live (Hackathon winner) |
 
 ---
 
@@ -97,6 +114,12 @@ Self-managed dedicated server running the full AI automation stack:
 | Claude Code | Anthropic / Outskill | ✅ Completed + Hands-on |
 | Crew.ai | Crew.ai | ✅ Completed + Hands-on |
 | OpenClaw | OpenClaw | ✅ Completed + Hands-on |
+| Course / Achievement | Provider | Type |
+|---|---|---|
+| **3rd Place – AI Generalist Hackathon (B21)** | Be10x | ✅ Capstone Hackathon |
+| **Capstone Phase Certificate** | House of Edtech / Be10x | ✅ Issued Aug 2026 |
+| Gen AI Engineering Mastermind | Outskill | ✅ Completed |
+...
 
 *Professional Certifications: PMP · CISA · ITIL · ISO27001 LA · ITSM LA · QMS LA · BCCP · MBA · MS*
 
