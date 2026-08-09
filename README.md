@@ -114,8 +114,6 @@ Self-managed dedicated server running the full AI automation stack:
 | Claude Code | Anthropic / Outskill | ✅ Completed + Hands-on |
 | Crew.ai | Crew.ai | ✅ Completed + Hands-on |
 | OpenClaw | OpenClaw | ✅ Completed + Hands-on |
-| Course / Achievement | Provider | Type |
-|---|---|---|
 | **3rd Place – AI Generalist Hackathon (B21)** | Be10x | ✅ Capstone Hackathon |
 | **Capstone Phase Certificate** | House of Edtech / Be10x | ✅ Issued Aug 2026 |
 | Gen AI Engineering Mastermind | Outskill | ✅ Completed |
